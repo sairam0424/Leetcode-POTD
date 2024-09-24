@@ -1,6 +1,6 @@
 #3043 : Find the Length of Longest Common Prefix:   
 
-import List  # type: ignore
+
 class Solution:
     def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
 
